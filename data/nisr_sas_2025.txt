@@ -1,0 +1,35 @@
+DOCUMENT TITLE: NISR Seasonal Agricultural Survey (SAS) - Annual Report 2025
+SOURCE: National Institute of Statistics of Rwanda (NISR)
+TIMEFRAME: January to December 2025 (Covering Season A 2025, Season B 2025, and Season C 2025)
+
+1. AGRICULTURAL LAND USE (2025)
+- Total National Land Area: Estimated at 2.376 million hectares.
+- Season A Agricultural Land Use: 1.399 million hectares (59% of national land area) used for agriculture.
+  * Seasonal Crops Area: 1.019 million hectares.
+  * Permanent Crops Area: 0.492 million hectares.
+  * Permanent Pasture Area: 0.096 million hectares.
+- Season B Agricultural Land Use: 1.423 million hectares (60% of national land area) used for agriculture.
+  * Seasonal Crops Area: 1.022 million hectares.
+  * Permanent Crops Area: 0.524 million hectares.
+  * Permanent Pasture Area: 0.100 million hectares.
+
+2. FARMER INPUT ADOPTION & PRACTICES (2025)
+- Improved Seeds Adoption Rates:
+  * Season A: 37.3% of farmers used improved seeds.
+  * Season B: 18.0% of farmers used improved seeds.
+  * Season C: 18.9% of farmers used improved seeds.
+
+- Organic Fertilizer Usage:
+  * Season A: 88.0% of farmers applied organic fertilizer.
+  * Season B: 80.8% of farmers applied organic fertilizer.
+  * Season C: 83.5% of farmers applied organic fertilizer.
+
+- Inorganic (Chemical) Fertilizer Usage:
+  * Season A: 63.2% of farmers applied inorganic fertilizer.
+  * Season B: 55.5% of farmers applied inorganic fertilizer.
+  * Season C: 65.8% of farmers applied inorganic fertilizer.
+
+- Pesticides / Fungicides Usage:
+  * Season A: 41.9% of farmers applied pesticides.
+  * Season B: 36.6% of farmers applied pesticides.
+  * Season C: 67.0% of farmers applied pesticides.
